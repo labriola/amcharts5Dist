@@ -1,0 +1,1 @@
+{"version":3,"file":"Responsive.js","sourceRoot":"","sources":["../../../src/themes/Responsive.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,wCAAwC,CAAC;AACzE,eAAe,eAAe,CAAC","sourcesContent":["import { ResponsiveTheme } from \"../.internal/themes/ResponsiveTheme.js\";\nexport default ResponsiveTheme;"]}
